@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yiting Qu(瞿艺婷)"
+title                    : "Yuan Xin(辛媛)"
 title_separator          : "-"
-name                     : &name "Yiting Qu(瞿艺婷)"
+name                     : &name "Yuan Xin(辛媛)"
 description              : &description "First-year Ph.D. student at CISPA Helmholtz Center for Information Security"
-url                      : https://YitingQu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://AppleXY.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "yitingqu.github.io"
+repository               : "AppleXY.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : 
-  avatar           : "YitingQu.jpg"
+  avatar           : "YuanXin.jpg"
   bio              : "First-year Ph.D. student at CISPA Helmholtz Center for Information Security"
   location         : "Saarbrücken, Germany"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
 #   googlescholar    : "https://scholar.google.com/citations?user=DECqXdAAAAAJ&hl=en"
-  email            : "yitingqu001@gmail.com"
+  email            : "yxin4760@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "YitingQu"
+  github           : "YuanXin"
   google_plus      :
   keybase          :
   instagram        :
