@@ -7,20 +7,19 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently a first-year Ph.D. student at [CISPA Helmholtz Center for Information Security](https://cispa.de/en), co-supervised by [Prof. Michael Backes](https://cispa.de/en/about/director-page) and [Dr. Yang Zhang](https://yangzhangalmo.github.io/). Before that, I obtained my master's degree at Shanghai Jiao Tong University (2021) and obtained my bachelor's degree at Shandong University (2018).
+I am a first-year Ph.D. student at [CISPA Helmholtz Center for Information Security](https://cispa.de/en), co-supervised by [Prof. Michael Backes](https://cispa.de/en/about/director-page) and [Dr. Yang Zhang](https://yangzhangalmo.github.io/). Prior to that, I obtained my bachelor (2018) and master (2021) degrees from University of Science and Technology of China.
 
 Research Interests
 ======
 - Security and Privacy of Machine Learning
-- Optimization in Machine Learning
-- IoT Security
+- Natural Language Processing
 
 Publications
 ======
-- [Automatic Permission Optimization Framework for Privacy Enhancement of Mobile Applications](https://ieeexplore.ieee.org/abstract/document/9270036)\
-<b>Yiting Qu</b>, Suguo Du, Shaofeng Li, Yan Meng, Le Zhang, Haojin Zhu.
-In *IEEE Internet of Things Journal (IoTJ)*, 2020.
+- [Label Incorporated Graph Neural Networks for Text Classification](https://ieeexplore.ieee.org/document/9413086)\
+<b>Yuan Xin</b>,  Linli Xu, Junliang Guo, Jiquan Li, Xin Sheng, Yuanyuan Zhou.
+In *2020 25th International Conference on Pattern Recognition (ICPR)*.
 
 What's New
 ======
-- [November 2021] I joined CISPA to start my Ph.D.!
+- [March 2022] I joined CISPA to start my Ph.D.!
