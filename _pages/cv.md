@@ -20,7 +20,7 @@ Research experience
 * Summer 2020: NLP Research Intern, Baidu Talent Intelligence Center   
   * Project1: Extract hierarchical relations between skills in the JD dataset.
   * Project2: Skills representation learning
-  * Group Leader: Hengshu Zhu(https://www.zhuhengshu.com)
+  * Group Leader: [Hengshu Zhu](https://www.zhuhengshu.com/)
 
 * Summer 2022: NLP Research Intern, Alibaba DAMO
   * Doing research on machine translation, Duties included
