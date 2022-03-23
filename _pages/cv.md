@@ -11,21 +11,23 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Computer Science,University of Science and Technology of China, 2014-2018
+* M.S. in Computer Science, University of Science and Technology of China, 2018-2021
+* Exchange Student to finish graduate thesis, Monash University, 2018
 
-Work experience
+Research experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2020: NLP Research Intern, Baidu Talent Intelligence Center   
+  * Project1: Extract hierarchical relations between skills in the JD dataset.
+  * Project2: Skills representation learning
+  * Group Leader: Hengshu Zhu(https://www.zhuhengshu.com)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2022: NLP Research Intern, Alibaba DAMO
+  * Doing research on machine translation, Duties included
+    * Use self-training methods to optimize the machine translation performance
+    * Optimize the evaluation metrics for machine translation, let the model evaluate its own performance without external reference.      
+
+  
   
 Skills
 ======
@@ -42,17 +44,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+ 
   
 Service and leadership
 ======
