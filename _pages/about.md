@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a first-year Ph.D. student at [CISPA Helmholtz Center for Information Security](https://cispa.de/en), co-supervised by [Prof. Michael Backes](https://cispa.de/en/about/director-page) and [Dr. Yang Zhang](https://yangzhangalmo.github.io/). Prior to that, I obtained my bachelor (2018) and master (2021) degrees from University of Science and Technology of China. Here you can find my CV(https://AppleXY.githun.io/files/CV.pdf)
+I am a first-year Ph.D. student at [CISPA Helmholtz Center for Information Security](https://cispa.de/en), co-supervised by [Prof. Michael Backes](https://cispa.de/en/about/director-page) and [Dr. Yang Zhang](https://yangzhangalmo.github.io/). Prior to that, I obtained my bachelor (2018) and master (2021) degrees from University of Science and Technology of China. Here you can find my CV(https://AppleXY.github.io/files/CV.pdf)
 
 Research Interests
 ======
