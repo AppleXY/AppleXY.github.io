@@ -22,7 +22,7 @@ Research experience
   * Project2: Skills representation learning
   * Group Leader: [Hengshu Zhu](https://www.zhuhengshu.com/)
 
-* Summer 2022: NLP Research Intern, Alibaba DAMO
+* Summer 2021: NLP Research Intern, Alibaba DAMO
   * Doing research on machine translation, Duties included
     * Use self-training methods to optimize the machine translation performance
     * Optimize the evaluation metrics for machine translation, let the model evaluate its own performance without external reference.      
