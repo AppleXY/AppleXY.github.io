@@ -4,8 +4,7 @@ title: "Deadline"
 permalink: /conference/
 author_profile: true
 redirect_from:
-  - /conference/
-  - /conference.html
+ - /resume
 ---
 
 {% include base_path %}
