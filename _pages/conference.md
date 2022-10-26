@@ -3,6 +3,7 @@ layout: archive
 title: "Deadline"
 permalink: /conference/
 author_profile: true
+redirect_from:
   - /conference/
   - /conference.html
 ---
