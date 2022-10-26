@@ -3,6 +3,8 @@ layout: archive
 title: "Deadline"
 permalink: /conference/
 author_profile: true
+  - /conference/
+  - /conference.html
 ---
 
 {% include base_path %}
