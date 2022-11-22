@@ -22,4 +22,5 @@ In *2020 25th International Conference on Pattern Recognition (ICPR)*.
 
 What's New
 ======
+- [November 2022] I passed my QE!
 - [March 2022] I joined CISPA to start my Ph.D.!
