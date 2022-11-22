@@ -12,7 +12,7 @@ I am a first-year Ph.D. student at [CISPA Helmholtz Center for Information Secur
 Research Interests
 ======
 - Security and Privacy of Machine Learning
-- Natural Language Processing
+- Robustness Certification Methods
 
 Publications
 ======
