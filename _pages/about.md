@@ -19,7 +19,7 @@ Publications
 - [Provably Robust Cost-Sensitive Learning via Randomized Smoothing
 ](https://arxiv.org/abs/2310.08732)\
 <b>Yuan Xin</b>,  Michael Backes, Xiao Zhang.
-[arXiv(https://arxiv.org/abs/2310.08732)]
+[arXiv 23] (https://arxiv.org/abs/2310.08732)
 - [Label Incorporated Graph Neural Networks for Text Classification](https://ieeexplore.ieee.org/document/9413086)\
 <b>Yuan Xin</b>,  Linli Xu, Junliang Guo, Jiquan Li, Xin Sheng, Yuanyuan Zhou.
 In *2020 25th International Conference on Pattern Recognition (ICPR)*.
