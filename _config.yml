@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : 
-  avatar           : "photo2"
+  avatar           : "photo2.png"
   bio              : "Third-year Ph.D. student at CISPA Helmholtz Center for Information Security"
   location         : "Saarbrücken, Germany"
   employer         :
