@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yuan Xin(辛媛)"
+title                    : "Yuan Xin (辛媛)"
 title_separator          : "-"
-name                     : &name "Yuan Xin(辛媛)"
+name                     : &name "Yuan Xin (辛媛)"
 description              : &description "First-year Ph.D. student at CISPA Helmholtz Center for Information Security"
 url                      : https://AppleXY.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
