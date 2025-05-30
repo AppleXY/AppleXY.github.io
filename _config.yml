@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : 
+  name             : "Yuan Xin"
   avatar           : "photo2.png"
-  bio              : "Yuan Xin  \nPh.D. Student at CISPA Helmholtz Center for Information Security"
+  bio              : "Ph.D. Student at CISPA Helmholtz Center for Information Security"
   location         : "Saarbrücken, Germany"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
